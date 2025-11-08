@@ -1,4 +1,4 @@
-# Supply Chain Tracker DApp (Hardhat + Next.js 14 + Ethers v6)
+# Supply Chain Tracker DApp (Hardhat + Next.js 14 + Ethers )
 
 ## 1. Mục tiêu
 - Minh bạch vòng đời sản phẩm (Manufactured → Shipped → InTransit → Delivered → Received).
