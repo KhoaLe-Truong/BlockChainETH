@@ -1,0 +1,19 @@
+{
+  "name": "supply-chain-blockchain",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf cache artifacts",
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "test": "hardhat test",
+    "coverage": "hardhat coverage",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "6.1.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "2.26.2"
+  }
+}
