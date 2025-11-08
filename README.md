@@ -52,12 +52,4 @@ npm run build
 npm run start
 ```
 
-## 7. Ảnh & Demo
-- Ảnh UI (Create/List/Verify/Detail).
-- Video demo (Create → Update → Transfer → Verify; optional: trên Sepolia).
 
-## 8. Hướng mở rộng
-- IPFS cho hoá đơn/chứng từ (hash on-chain).
-- Role-based AccessControl (MANUFACTURER/DISTRIBUTOR/RETAILER).
-- Indexing bằng The Graph.
-- Batch operations, pagination, notifications.
